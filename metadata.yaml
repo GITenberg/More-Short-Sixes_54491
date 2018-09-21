@@ -1,25 +1,30 @@
 _repo: More-Short-Sixes_54491
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Taylor, Charles Jay
     aliases:
     - Taylor, C. J. (Charles Jay)
     - Taylor, C. Jay
-    birthdate: &id001 1855
+    birthdate: 1855
     deathdate: 1929
     gutenberg_agent_id: '44295'
     url: http://www.gutenberg.org/2009/agents/44295
+covers:
+- cover_type: archival
+  image_path: 54491-h/images/cover.jpg
 creator:
   author:
     agent_name: Bunner, H. C. (Henry Cuyler)
     alias: Bunner, Henry Cuyler
-    birthdate: *id001
+    birthdate: 1855
     deathdate: 1896
     gutenberg_agent_id: '6156'
     url: http://www.gutenberg.org/2009/agents/6156
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54491#More-Short-Sixes
 gutenberg_issued: '2017-04-06'
 gutenberg_type: Text
 identifiers:
